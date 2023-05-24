@@ -1,0 +1,7 @@
+C:\Users\os\OneDrive\Code\C#\Test2\bin\Debug\Test2.exe
+C:\Users\os\OneDrive\Code\C#\Test2\bin\Debug\Test2.pdb
+C:\Users\os\OneDrive\Code\C#\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+C:\Users\os\OneDrive\Code\C#\Test2\obj\Debug\Test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\os\OneDrive\Code\C#\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\os\OneDrive\Code\C#\Test2\obj\Debug\Test2.exe
+C:\Users\os\OneDrive\Code\C#\Test2\obj\Debug\Test2.pdb
