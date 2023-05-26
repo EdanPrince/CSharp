@@ -1,0 +1,8 @@
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\bin\Debug\LibraryItem.exe.config
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\bin\Debug\LibraryItem.exe
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\bin\Debug\LibraryItem.pdb
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\obj\Debug\LibraryItem.csproj.AssemblyReference.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\obj\Debug\LibraryItem.csproj.SuggestedBindingRedirects.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\obj\Debug\LibraryItem.csproj.CoreCompileInputs.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\obj\Debug\LibraryItem.exe
+C:\Users\os\OneDrive\Code\C#\Demo2\LibraryItem\obj\Debug\LibraryItem.pdb
