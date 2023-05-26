@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class LibraryItem
+public abstract class LibraryItem
 {
     public string Title { get; set; }
     public string Author { get; set; }
