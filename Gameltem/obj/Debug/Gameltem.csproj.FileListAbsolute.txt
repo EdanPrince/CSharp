@@ -1,0 +1,8 @@
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\bin\Debug\Gameltem.exe.config
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\bin\Debug\Gameltem.exe
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\bin\Debug\Gameltem.pdb
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\obj\Debug\Gameltem.csproj.AssemblyReference.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\obj\Debug\Gameltem.csproj.SuggestedBindingRedirects.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\obj\Debug\Gameltem.csproj.CoreCompileInputs.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\obj\Debug\Gameltem.exe
+C:\Users\os\OneDrive\Code\C#\Demo2\Gameltem\obj\Debug\Gameltem.pdb
